@@ -1,4 +1,4 @@
-## console
+## Console
 ### git命令
 
 ```bash
